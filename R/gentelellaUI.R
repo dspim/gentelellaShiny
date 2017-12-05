@@ -13,7 +13,7 @@
 #' @import shiny
 #' @export
 gentelellaPage <- function(...,
-                           title_tag = "Gentelella Shiny",
+                           title_tag = "遊蕩動物風險地圖",
                            site_title = a(class="site_title", icon("paw"), span("Shiny HTML")),
                            menuItems = NULL,
                            footer = NULL,
